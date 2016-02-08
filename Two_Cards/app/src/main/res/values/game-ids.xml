@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">123423753638</string>
+    <string name="package_name">com.archer.matching_card_game.two_cards</string>
+
+    <string name="achievement_love_affair_complete">CgkIpouE5csDEAIQCQ</string>
+    <string name="achievement_thunderbolt_complete">CgkIpouE5csDEAIQCg</string>
+    <string name="achievement_jet_complete">CgkIpouE5csDEAIQCw</string>
+    <string name="achievement_hit_or_miss_complete">CgkIpouE5csDEAIQDA</string>
+    <string name="achievement_stars_1.0_complete">CgkIpouE5csDEAIQDQ</string>
+    <string name="achievement_shelter_complete">CgkIpouE5csDEAIQDg</string>
+    <string name="achievement_stars_2.0_complete">CgkIpouE5csDEAIQDw</string>
+    <string name="achievement_story_mode_complete">CgkIpouE5csDEAIQEA</string>
+
+    <string name="leaderboard_story_mode__overall_top_score">CgkIpouE5csDEAIQEQ</string>
+    <string name="leaderboard_story_mode__completion_status">CgkIpouE5csDEAIQEg</string>
+    <string name="leaderboard_love_affair__top_score">CgkIpouE5csDEAIQEw</string>
+    <string name="leaderboard_thunderbolt__top_scores">CgkIpouE5csDEAIQFA</string>
+    <string name="leaderboard_jet__top_scores">CgkIpouE5csDEAIQFQ</string>
+    <string name="leaderboard_hit_or_miss__top_scores">CgkIpouE5csDEAIQFg</string>
+    <string name="leaderboard_stars_1.0__top_scores">CgkIpouE5csDEAIQFw</string>
+    <string name="leaderboard_shelter__top_scores">CgkIpouE5csDEAIQGA</string>
+    <string name="leaderboard_stars_2.0__top_scores">CgkIpouE5csDEAIQGQ</string>
+    <string name="leaderboard_richie_rich__overall">CgkIpouE5csDEAIQGg</string>
+    <string name="leaderboard_max_coins_earned_in_one_game">CgkIpouE5csDEAIQGw</string>
+
+    <string name="leaderboard_top_score__arcade1p1b6x4no_scrollcard_set1">CgkIpouE5csDEAIQHA</string>
+    <string name="leaderboard_top_score__arcade1p1b6x4no_scrollcard_set2">CgkIpouE5csDEAIQHQ</string>
+    <string name="leaderboard_top_score__arcade1p1b6x4no_scrollcard_set3">CgkIpouE5csDEAIQHg</string>
+    <string name="leaderboard_top_score__arcade1p1b6x4h_scrollcard_set1">CgkIpouE5csDEAIQHw</string>
+    <string name="leaderboard_top_score__arcade1p1b6x4h_scrollcard_set2">CgkIpouE5csDEAIQIA</string>
+    <string name="leaderboard_top_score__arcade1p1b6x4h_scrollcard_set3">CgkIpouE5csDEAIQIQ</string>
+    <string name="leaderboard_top_score__arcade1p1b7x4v_scrollcard_set1">CgkIpouE5csDEAIQIg</string>
+    <string name="leaderboard_top_score__arcade1p1b7x4v_scrollcard_set2">CgkIpouE5csDEAIQIw</string>
+    <string name="leaderboard_top_score__arcade1p1b7x4v_scrollcard_set3">CgkIpouE5csDEAIQJA</string>
+    <string name="leaderboard_top_score__arcade1p1b7x5hv_scrollcard_set1">CgkIpouE5csDEAIQJQ</string>
+    <string name="leaderboard_top_score__arcade1p1b7x5hv_scrollcard_set2">CgkIpouE5csDEAIQJg</string>
+    <string name="leaderboard_top_score__arcade1p1b7x5hv_scrollcard_set3">CgkIpouE5csDEAIQJw</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4no_scrollcard_set1">CgkIpouE5csDEAIQKA</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4no_scrollcard_set2">CgkIpouE5csDEAIQKQ</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4no_scrollcard_set3">CgkIpouE5csDEAIQKg</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4v_scrollcard_set1">CgkIpouE5csDEAIQKw</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4v_scrollcard_set2">CgkIpouE5csDEAIQLA</string>
+    <string name="leaderboard_top_score__arcade1p2b3x4v_scrollcard_set3">CgkIpouE5csDEAIQLQ</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5h_scrollcard_set1">CgkIpouE5csDEAIQLg</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5h_scrollcard_set2">CgkIpouE5csDEAIQLw</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5h_scrollcard_set3">CgkIpouE5csDEAIQMA</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5hv_scrollcard_set1">CgkIpouE5csDEAIQMQ</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5hv_scrollcard_set2">CgkIpouE5csDEAIQMg</string>
+    <string name="leaderboard_top_score__arcade1p2b3x5hv_scrollcard_set3">CgkIpouE5csDEAIQMw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4no_scrollcard_set1">CgkIpouE5csDEAIQNA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4no_scrollcard_set2">CgkIpouE5csDEAIQNQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4no_scrollcard_set3">CgkIpouE5csDEAIQNg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4h_scrollcard_set1">CgkIpouE5csDEAIQNw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4h_scrollcard_set2">CgkIpouE5csDEAIQOA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b6x4h_scrollcard_set3">CgkIpouE5csDEAIQOQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x4v_scrollcard_set1">CgkIpouE5csDEAIQOg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x4v_scrollcard_set2">CgkIpouE5csDEAIQOw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x4v_scrollcard_set3">CgkIpouE5csDEAIQPA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x5hv_scrollcard_set1">CgkIpouE5csDEAIQPQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x5hv_scrollcard_set2">CgkIpouE5csDEAIQPg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p1b7x5hv_scrollcard_set3">CgkIpouE5csDEAIQPw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4no_scrollcard_set1">CgkIpouE5csDEAIQQA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4no_scrollcard_set2">CgkIpouE5csDEAIQQQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4no_scrollcard_set3">CgkIpouE5csDEAIQQg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4v_scrollcard_set1">CgkIpouE5csDEAIQQw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4v_scrollcard_set2">CgkIpouE5csDEAIQRA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x4v_scrollcard_set3">CgkIpouE5csDEAIQRQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5h_scrollcard_set1">CgkIpouE5csDEAIQRg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5h_scrollcard_set2">CgkIpouE5csDEAIQRw</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5h_scrollcard_set3">CgkIpouE5csDEAIQSA</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5hv_scrollcard_set1">CgkIpouE5csDEAIQSQ</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5hv_scrollcard_set2">CgkIpouE5csDEAIQSg</string>
+    <string name="leaderboard_top_score__timetrial5_secs1p2b3x5hv_scrollcard_set3">CgkIpouE5csDEAIQSw</string>
+    <string name="leaderboard_top_scores__arcade2pandrobot1b6x4h_scroll">CgkIpouE5csDEAIQTA</string>
+    <string name="leaderboard_top_scores__arcade2pandrobot1b6x4no_scroll">CgkIpouE5csDEAIQTQ</string>
+    <string name="leaderboard_top_scores__arcade2pandrobot1b7x4v_scroll">CgkIpouE5csDEAIQTg</string>
+    <string name="leaderboard_top_scores__arcade2pandrobot1b7x5hv_scroll">CgkIpouE5csDEAIQTw</string>
+    <string name="leaderboard_top_scores__timetrial2pandrobot1b6x4no_scroll">CgkIpouE5csDEAIQUA</string>
+    <string name="leaderboard_top_scores__timetrial2pandrobot1b6x4h_scroll">CgkIpouE5csDEAIQUQ</string>
+    <string name="leaderboard_top_scores__timetrial2pandrobot1b7x4v_scroll">CgkIpouE5csDEAIQUg</string>
+    <string name="leaderboard_top_scores__timetrial2pandrobot1b7x5hv_scroll">CgkIpouE5csDEAIQUw</string>
+
+    <string name="event_unlocked_game_in_love_affair">CgkIpouE5csDEAIQAQ</string>
+    <string name="event_unlocked_game_in_thunderbolt">CgkIpouE5csDEAIQAg</string>
+    <string name="event_unlocked_game_in_jet">CgkIpouE5csDEAIQAw</string>
+    <string name="event_unlocked_game_in_hit_or_miss">CgkIpouE5csDEAIQBA</string>
+    <string name="event_unlocked_game_in_stars_1.0">CgkIpouE5csDEAIQBQ</string>
+    <string name="event_unlocked_game_in_shelter">CgkIpouE5csDEAIQBg</string>
+    <string name="event_unlocked_game_in_stars_2.0">CgkIpouE5csDEAIQBw</string>
+    <string name="event_unlocked_new_game">CgkIpouE5csDEAIQCA</string>
+
+    <string name="quest_unlock_50_games_of_love_affair_in_a_week">CgkIpouE5csDEAIQVQ</string>
+    <string name="quest_unlock_50_games_of_jet_in_a_week">CgkIpouE5csDEAIQVg</string>
+    <string name="quest_unlock_50_games_of_stars_1.0_in_a_week">CgkIpouE5csDEAIQVw</string>
+    <string name="quest_unlock_50_games_of_thunderbolt_in_a_week">CgkIpouE5csDEAIQWA</string>
+    <string name="quest_unlock_50_games_of_hit_or_miss_in_a_week">CgkIpouE5csDEAIQWQ</string>
+    <string name="quest_unlock_50_games_of_shelter_in_a_week">CgkIpouE5csDEAIQWg</string>
+    <string name="quest_unlock_50_games_of_stars_2.0_in_a_week">CgkIpouE5csDEAIQWw</string>
+    <string name="quest_unlock_50_games_of_any_module_in_a_week">CgkIpouE5csDEAIQXA</string>
+    <string name="quest_unlock_10_games_of_jet_in_one_day">CgkIpouE5csDEAIQXQ</string>
+    <string name="quest_unlock_10_games_of_love_affair_in_one_day">CgkIpouE5csDEAIQXg</string>
+    <string name="quest_unlock_10_games_of_hit_or_miss_in_one_day">CgkIpouE5csDEAIQXw</string>
+    <string name="quest_unlock_10_games_of_thunderbolt_in_one_day">CgkIpouE5csDEAIQYA</string>
+    <string name="quest_unlock_10_games_of_stars_1.0_in_one_day">CgkIpouE5csDEAIQYQ</string>
+    <string name="quest_unlock_10_games_of_shelter_in_one_day">CgkIpouE5csDEAIQYg</string>
+    <string name="quest_unlock_10_games_of_stars_2.0_in_one_day">CgkIpouE5csDEAIQYw</string>
+    <string name="quest_unlock_10_games_of_any_module_in_one_day">CgkIpouE5csDEAIQZA</string>
+</resources>
