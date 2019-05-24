@@ -44,7 +44,7 @@ import java.util.Random;
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.ThreadLocalRandom;
 
-
+//adb install com.google.android.wearable.app-2.apk
 public class Game {
 
     //region Game Data

@@ -1,3 +1,4 @@
+# Two Cards
 Classic card game where you have to find matching card pairs.
 Fun way to train your memory power!
 
@@ -33,7 +34,15 @@ Objective : Find all card pairs on board
 Link to the game on play store : 
 https://play.google.com/store/apps/details?id=com.archer.matching_card_game.two_cards
 
-Developer Details :
-Swastik
-+353 894250099
-swsahu9@gmail.com
+
+#Screenshots:
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
+![](screenshots/7.png)
+![](screenshots/8.png)
+![](screenshots/9.png)
+![](screenshots/10.png)
